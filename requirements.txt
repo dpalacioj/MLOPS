@@ -5,3 +5,7 @@ seaborn
 scikit-learn
 plotly
 nbformat
+polar
+mlflow
+xgboost
+hyperopt

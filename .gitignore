@@ -1,2 +1,5 @@
-models/lin_reg.bin
+models/
 *.parquet
+mlruns/
+experiments/
+nb/mlruns/
