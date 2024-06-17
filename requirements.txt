@@ -2,10 +2,10 @@ pandas
 pyarrow
 fastparquet
 seaborn
-scikit-learn
+scikit-learn==1.4.2
 plotly
 nbformat
-polar
 mlflow
 xgboost
 hyperopt
+ipykernel
